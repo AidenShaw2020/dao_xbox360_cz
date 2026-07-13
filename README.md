@@ -1,12 +1,6 @@
 Čeština Dragon Age: Origins + DLC (Xbox 360 RGH/JTAG)
 ===================================================
 
-DOPORUČENÁ FUNKČNÍ KOMBINACE
-
-Title ID: 454108C0
-
-Media ID: 186A1115
-
 Instalace:
 1. Odstraňte předchozí DAO Title Update z Hdd1:\Cache
 2. Zkopírujte soubor TU_12K2260_0000004000000.0000000000391 do Hdd1:\Cache
